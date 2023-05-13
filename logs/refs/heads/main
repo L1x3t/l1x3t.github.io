@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 4c9669833dd583f87df536a6cf1d2aba1c665e14 art <art@kali.art> 1683557731 +0100	commit (initial): Initialize project using Create React App
+4c9669833dd583f87df536a6cf1d2aba1c665e14 dccc62e2611cac68f70003902ab06b4620a5acea art <art@kali.art> 1683973952 +0100	commit: first-commit
+dccc62e2611cac68f70003902ab06b4620a5acea dccc62e2611cac68f70003902ab06b4620a5acea art <art@kali.art> 1683973969 +0100	Branch: renamed refs/heads/master to refs/heads/main
